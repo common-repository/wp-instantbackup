@@ -1,0 +1,14 @@
+WP-InstantBackup
+by Andrew Forster & Nick Young
+
+= V0.1.1 - 07.03.2011 =
+* NEW : Now only adminstrators can use the plugin
+* NEW : Added a test ftp settings condition to let users know if the settings they entered are correct
+* NEW : Added a directory test so that users know if the directory they 
+* CHANGED :  Added a condition to check for a valid ftp connection before performing any backups
+
+= V0.1.2 - 08.03.2011 =
+* Fix up appearance, change description text, listen for feedback
+
+= V0.1.3 - 08.03.2011 =
+* CHANGED : Changed FTP Transfer mode from ASCII to binary to ensure that FTP Backups can be opened.
